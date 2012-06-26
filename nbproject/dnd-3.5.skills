@@ -1,0 +1,176 @@
+Alchemy
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:No
+    Key Ability:Int
+Animal Empathy
+    Bbn:0,Brd:0,Clr:0,Drd:2,Ftr:0,Mnk:0,Pal:0,Rgr:2,Rog:0,Sor:0,Wiz:0
+    Untrained:No
+    Key Ability:Cha
+Appraise
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:Yes
+    Key Ability:Int
+Balance
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:Yes
+    Key Ability:Dex
+Bluff
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:Yes
+    Key Ability:Cha
+Climb
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:Yes
+    Key Ability:Str
+Concentration
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:Yes
+    Key Ability:Con
+Craft
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:Yes
+    Key Ability:Int
+Decipher Script
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:Yes
+    Key Ability:Int
+Diplomacy
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:Yes
+    Key Ability:Cha
+Disable Device
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:No
+    Key Ability:Int
+Disguise
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:Yes
+    Key Ability:Cha
+Escape Artist
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:Yes
+    Key Ability:Dex
+Forgery
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:Yes
+    Key Ability:Int
+Gather Information
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:Yes
+    Key Ability:Cha
+Handle Animal
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:No
+    Key Ability:Cha
+Heal
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:Yes
+    Key Ability:Wis
+Hide
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:Yes
+    Key Ability:Dex
+Innuendo
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:No
+    Key Ability:Wisdom
+Intimidate
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:Yes
+    Key Ability:Cha
+Intuit Direction
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:No
+    Key Ability:Wis
+Jump
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:Yes
+    Key Ability:Str
+Knowledge (arcana)
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:No
+    Key Ability:Int
+Knowledge (religion)
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:No
+    Key Ability:Int
+Knowledge (nature)
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:No
+    Key Ability:Int
+Listen
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:Yes
+    Key Ability:Wis
+Move Silently
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:Yes
+    Key Ability:Dex
+Open Lock
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:No
+    Key Ability:Dex
+Perform
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:Yes
+    Key Ability:Cha
+Pick Pocket
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:No
+    Key Ability:Dex
+Profession
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:No
+    Key Ability:Wis
+Read Lips
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:No
+    Key Ability:Int
+Ride
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:Yes
+    Key Ability:Dex
+Scry
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:Yes
+    Key Ability:Int
+Search
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:Yes
+    Key Ability:Int
+Sense Motive
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:Yes
+    Key Ability:Wis
+Speak Language
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:No
+    Key Ability:
+Spellcraft
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:No
+    Key Ability:Int
+Spot
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:Yes
+    Key Ability:Wis
+Swim
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:Yes
+    Key Ability:Str
+Tumble
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:No
+    Key Ability:Dex
+Use Magic Device
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:No
+    Key Ability:Cha
+Use Rope
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:Yes
+    Key Ability:Dex
+Wilderness
+    Bbn:1,Brd:2,Clr:1,Drd:1,Ftr:1,Mnk:1,Pal:1,Rgr:1,Rog:1,Sor:2,Wiz:2
+    Untrained:Yes
+    Key Ability:Wis

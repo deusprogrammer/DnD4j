@@ -1,0 +1,4 @@
+attributes:Str,Dex,Con,Int,Wis,Cha
+saves:Will,Fort,Reflex
+stats:AC,Base Attack Bonus,Initiative
+classes:Bbn,Brd,Clr,Drd,Ftr,Mnk,Pal,Rgr,Rog,Sor,Wiz

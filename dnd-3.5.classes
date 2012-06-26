@@ -1,0 +1,24 @@
+Barbarian(Bbn)
+	Level 1: +1,+2,+0,+0,"Rage 1/day; Fast movement"
+	Level 2: +2,+2,+0,+0,"Uncanny dodge"
+	Level 3: +3,+2,+0,+0,""
+	Level 4: +4,+2,+0,+0,"Rage 2/day"
+	Level 5: +5,+2,+0,+0,"Uncanny dodge"
+	Level 6: +6/+1,+2,+0,+0,""
+	Level 7: +7/+2,+2,+0,+0,""
+	Level 8: +8/+3,+2,+0,+0,"
+	Level 9: +9/+4,+2,+0,+0,"Rage 3/day"
+	Level 10: +10/+5,+2,+0,+0,""
+	Level 11: +11/+6/+1,+2,+0,+0,"Uncanny dodge"
+	Level 12: +12/+7/+2,+2,+0,+0,"Damage reduction"
+	Level 13: +13/+8/+3,+2,+0,+0,"Rage 4/day"
+	Level 14: +14/+9/+4,+2,+0,+0,"Uncanny dodge"
+	Level 15: +15/+10/+5,+2,+0,+0,"Greater rage"
+	Level 16: +16/+11/+6/+1,+2,+0,+0,"Rage 5/day"
+	Level 17: +17/+12/+7/+2,+2,+0,+0,"Damage reduction"
+	Level 18: +18/+13/+8/+3,+2,+0,+0,""
+	Level 19: +19/+14/+9/+4,+2,+0,+0,"Uncanny dodge"
+	Level 20: +20/+15/+10/+5,+2,+0,+0,"Rage 6/day;  Damage reduction"
+	Hit Die: d12
+	Alignments: Neutral Good, Neutral, Neutral Evil, Chaotic Good, Chaotic Neutral, Chaotic Evil
+	Proficiencies: Simple Weapons, Martial Weapons, Light Armor, Medium Armor, Shields

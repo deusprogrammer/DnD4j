@@ -1,0 +1,82 @@
+Alertness
+    Prerequisite:
+
+Ambidexterity
+    Prerequisite: 
+        Attribute: Dex 15+
+
+Armor Proficiency (light)
+    Prerequisite: 
+
+Armor Proficiency (medium)
+    Prerequisite: 
+        Feat: Armor Proficiency (light)
+
+Armor Proficiency (heavy)
+    Prerequisite: 
+        Feat: Armor Proficiency (light)
+        Feat: Armor Proficiency (medium)
+
+Blind Fight
+    Prerequisite:
+
+Combat Casting
+    Prerequisite:
+
+Combat Reflexes
+    Prerequisite:
+
+Dodge
+    Prerequisite:
+        Attribute: Dex 13
+
+Mobility
+    Prerequisite:
+        Attribute: Dex 13
+        Feat: Dodge
+
+Spring Attack
+    Prerequisite:
+        Attribute: Dex 13
+        Feat: Dodge
+        Feat: Mobility
+        Stat: Base Attack Bonus +4
+
+Endurance
+    Prerequisite:
+
+Exotic Weapon Proficiency
+    Prerequisite:
+        Stat: Base Attack Bonus +1
+
+Expertise
+    Prerequisite:
+        Attribute: Int 12
+
+Improved Disarm
+    Prerequisite:
+        Attribute: Int 12
+        Feat: Expertise
+
+Improved Trip
+    Prerequisite:
+        Attribute: Int 12
+        Feat: Expertise
+
+Whirlwind Attack
+    Prerequisite:
+        Attribute: Int 12
+        Attribute: Dex 13
+        Feat: Expertise
+        Feat: Dodge
+        Feat: Mobility
+        Feat: Spring Attack
+        Stat: Base Attack Bonus +4
+
+Great Fortitude
+    Prerequisite:
+
+Improved Critical (weapon)
+    Prerequisite:
+        Proficiency: weapon
+
